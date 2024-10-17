@@ -33,6 +33,7 @@ e valor. Usar os tipos abaixo:
 6. Viagens
 
 <br/>
+
 ### Gerador:  
 Cada gerador pode gerar mais de um tipo de informação, criando uma thread para cada tipo
 de informação desejada. Deve-se informar a quantidade de geradores a serem criados. Cada thread
