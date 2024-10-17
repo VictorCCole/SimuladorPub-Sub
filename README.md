@@ -1,6 +1,12 @@
 # Trabalho de implementação de Aplicações Distribuídas
 ## Simulador Pub/Sub - Difusor de informações
 
+### Como executar
+
+
+---
+### Problema
+
 ![Imagens1](https://github.com/VictorCCole/SimuladorPub-Sub/blob/main/img/img1.png)
 
 O trabalho será composto de três aplicações: Gerador, Difusor e Consumidor. O Gerador deve gerar
