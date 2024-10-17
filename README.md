@@ -1,11 +1,12 @@
 # Trabalho de implementação de Aplicações Distribuídas
-## Simulador Pub/Sub - Difusor de informações
 
 ### Como executar
 
 
 ---
-### Problema
+
+
+## Simulador Pub/Sub - Difusor de informações
 
 ![Imagens1](https://github.com/VictorCCole/SimuladorPub-Sub/blob/main/img/img1.png)
 
